@@ -20,31 +20,20 @@ Seaborn – for advanced and aesthetically pleasing statistical graphics
 
 The notebook performs a variety of analyses, including:
 
-Data Cleaning & Preprocessing
+-Data Cleaning & Preprocessing
 
-Handling missing values
+   Handling missing values
 
-Splitting multiple genres and countries
+   Splitting multiple genres and countries
 
-Extracting year from release dates
+   Extracting year from release dates
 
-Exploratory Data Analysis (EDA)
+-Exploratory Data Analysis (EDA)
 
-Count of Movies vs. TV Shows
+   Count of Movies vs. TV Shows
 
-Most common genres and countries
+   Most common genres and countries
 
-Distribution of release years
+   Distribution of release years
 
-Content added trend over time
-
-
-📈 Sample Visualizations
-
-📊 Movies vs. TV Shows bar plot
-
-🗓️ Content added per year trend line
-
-🌍 Top countries by content count
-
-🎭 Genre frequency chart
+   Content added trend over time
